@@ -1,4 +1,4 @@
-## CCF-BDCI stacking code
+# CCF-BDCI stacking code
 
 ---
 
@@ -9,5 +9,3 @@
 做得很菜, 效果不是很好, 但是是`NLP`的第一场比赛呢, 继续加油!!!
 
 :slightly_smiling_face:
-
-# CCF-BDCI_stacking_part
