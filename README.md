@@ -10,4 +10,4 @@
 
 :slightly_smiling_face:
 
-哭着求个 star! :star2:
+:star2:
